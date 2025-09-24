@@ -5,7 +5,7 @@
 - 📫 How to reach me 0725181522 my personal number (on whatsapp) and Mashau kgodiso
 - is my Facebook account 
 - 😄 Pronouns: He/ Him
-- ⚡ Fun fact: I hated coding until until I wrote my first program
+- ⚡ Fun fact: I hated coding until I wrote my first program
 
 <!---
 Kgodpet19/Kgodpet19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
