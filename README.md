@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mashau Kgodiso
 - 👀 I’m interested in building apps
 - 🌱 I’m currently learning c++ and python
-- 💞️ I’m looking to collaborate on building softwares for improving security and privary
+- 💞️ I’m looking to collaborate on building softwares for improving security and privacy
 - 📫 How to reach me 0725181522 my personal number (on whatsapp) and Mashau kgodiso
 - is my Facebook account 
 - 😄 Pronouns: He/ Him
